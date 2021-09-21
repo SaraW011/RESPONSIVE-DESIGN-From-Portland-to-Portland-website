@@ -1,0 +1,49 @@
+.cover__overlay {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width:100%;
+  min-height: 740px;
+  background-image: url(../../../images/cover-route-66.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  text-decoration: none;
+}  
+
+.cover__overlay:after {
+  content: "";
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #2A2C2F;
+  position: absolute;
+  opacity: .3;
+  transition: opacity .5s ease-in-out;
+}
+
+.cover__overlay:hover:after{
+  opacity:.8;
+} 
+
+
+@media screen and (max-width: 1024px) {
+  .cover__overlay {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__overlay {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__overlay {
+    min-height: 200px;
+  }
+} 

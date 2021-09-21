@@ -1,0 +1,9 @@
+.link {
+    color: white;
+    list-style-type: none;
+    transition: opacity .5s ease-in-out;
+}
+
+.link:hover {
+    opacity: .8;  
+}

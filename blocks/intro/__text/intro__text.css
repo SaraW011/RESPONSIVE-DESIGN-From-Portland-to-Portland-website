@@ -1,0 +1,11 @@
+.intro__text {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.08px; /* (26.08 / 16 = 1.25) */
+    text-align: left;
+    margin: 0;
+}
