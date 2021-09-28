@@ -2,14 +2,14 @@
 ### by Sara Weissman, 2021
 __________________________________________________________
 
-##Project Description
+## Project Description
 The focus of this project puts into practice the css rules that should be used to make a website responsive, as well as the correct usage of BEM methodology for naming classes. 
 
-###Github-pages project:
+### Github-pages project:
 Link to project on github:  https://github.com/SaraW011/From-Portland-to-Portland-p100
 Link to project on github-pages: https://saraw011.github.io/From-Portland-to-Portland-p100/
 
-###Course Material Included
+### Course Material Included
 * Adaptive Web Design and Working with Layouts
 * Working with Design and Specifications: Sigma
 * Grid Layout and grid areas
