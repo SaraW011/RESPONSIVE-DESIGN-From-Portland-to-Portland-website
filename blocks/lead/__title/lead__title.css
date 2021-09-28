@@ -5,13 +5,14 @@ font-weight: 900;
 text-align: center;
 margin: 0;
 line-height: 1.04;
-min-width: 70%;
+max-width: 720px;
 z-index: 7;
 }
 
-@media screen and (max-width:540px) {
+@media screen and (max-width:720px) {
   .lead__title { 
     min-width: 93.75%;
+    font-size: 56px;
       }
   }
   

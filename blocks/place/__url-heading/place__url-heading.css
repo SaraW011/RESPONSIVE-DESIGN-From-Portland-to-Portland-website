@@ -11,7 +11,7 @@
   color: #AAAAAA;
 } 
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 720px) {
   .place__url-heading {
     margin: 0 auto 12px auto;
   }

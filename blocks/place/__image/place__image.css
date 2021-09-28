@@ -6,22 +6,32 @@
   margin: 0;
 }
 
+@media screen and (max-width:1024px){
+  .place__image{
+   max-width: 440px;
+  }
+}
 @media screen and (max-width:768px){
   .place__image{
    max-width: 340px;
   }
 }
 
+@media screen and (max-width:720px){
+  .place__image{
+  max-width: 720px;
+  margin: 0 0 32px 0;
+  }
+}
+
 @media screen and (max-width:540px){
   .place__image{
   max-width: 540px;
-  margin: 0 auto 32px auto;
   }
 }
 
 @media screen and (max-width:320px){
   .place__image{
   max-width: 320px;
-  margin: 0 0 32px 0;
   }
 }

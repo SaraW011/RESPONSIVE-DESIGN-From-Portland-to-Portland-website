@@ -10,11 +10,13 @@
 @media screen and (max-width: 1024px) {
     .header {
       max-width: 928px;
+      width: calc(100% - (24px*2));
     }
   }
-@media screen and (max-width: 768px) {
+
+  @media screen and (max-width: 720px) {
     .header {
-        max-width: 720px;
+      width: calc(100% - (16px*2));
     }
   }
 
