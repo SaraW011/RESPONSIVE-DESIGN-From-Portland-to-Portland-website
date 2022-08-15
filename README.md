@@ -6,8 +6,8 @@ __________________________________________________________
 The focus of this project puts into practice the css rules that should be used to make a website responsive, as well as the correct usage of BEM methodology for naming classes. 
 
 ### Github-pages project:
-Link to project on github:  https://github.com/SaraW011/RESPONSIVE-DESIGN-From-Portland-to-Portland-website
-Link to project on github-pages: https://saraw011.github.io/https://github.com/SaraW011/RESPONSIVE-DESIGN-From-Portland-to-Portland-website
+[Link to project on github](https://github.com/SaraW011/RESPONSIVE-DESIGN-From-Portland-to-Portland-website
+[Link to project on github-pages](https://saraw011.github.io/https://github.com/SaraW011/RESPONSIVE-DESIGN-From-Portland-to-Portland-website)
 ### Course Material Included
 * Adaptive Web Design and Working with Layouts
 * Working with Design and Specifications: Sigma
